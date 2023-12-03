@@ -16,13 +16,13 @@
 
 <br><hr><br>
 <p align="center">
-    <b>Tek zar:</b>
+    <b>Tek zar:</b><br>
     <img src="assets/application_ui/oneDice_ui.jpg" style="border-radius: 30px;padding:30px " width="250"><br><br>
-    <b>Çift zar:</b>
+    <b>Çift zar:</b><br>
     <img src="assets/application_ui/twoDice_ui.jpg" style="border-radius: 30px;padding:30px " width="250"><br><br>
-    <b>Hile Aktifleştirme:</b>
-    <img src="assets/application_ui/cheatsOff.jpg" style="border-radius: 30px;padding:30px " width="250">
-    <img src="assets/application_ui/cheatsOn.jpg" style="border-radius: 30px;padding:30px " width="250">
+    <b>Hile Aktifleştirme:</b><br>
+    <img src="assets/application_ui/cheatsOff_ui.jpg" style="border-radius: 30px;padding:30px " width="250">
+    <img src="assets/application_ui/cheatsOn_ui.jpg" style="border-radius: 30px;padding:30px " width="250">
     
    
     
